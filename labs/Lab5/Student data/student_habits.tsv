@@ -1,0 +1,63 @@
+student_id	study_hours	attendance_percent	previous_score	internet_access	preferred_mode
+1001	2.0	97.0	64.0	 no 	Online
+1002	12.0	90.0	77.0	Yes	In person
+1003	unknown	75.0	76.0	YES	Online
+1004	7.0	99.0	66.0	No	In person
+1005	7.0	76.0	87.0	YES	In person
+1006		73.0	71.0	YES	Online
+1007	2.0	97.0	44.0	Yes	 in person 
+1008	11.0	75.0	82.0	 yes 	 online 
+1009	80	63.0	72.0	 yes 	 in person 
+1010	2.0	79.0	75.0	 yes 	Online
+1011	8.0	130.0	71.0	No	Online
+1012	15.0	67.0	71.0	No	 online 
+1013	12.0		45.0	No	Online
+1014	12.0	65.0	71.0	 yes 	 online 
+1015	11.0	88.0	84.0	 no 	In person
+1016	12.0	79.0		Yes	Online
+1017	8.0	73.0	73.0	 yes 	In person
+1018	2.0	69.0	41.0	Yes	Online
+1019	13.0	83.0	59.0	 yes 	Online
+1020	7.0	87.0	64.0	 no 	In person
+1021	8.0	98.0	95.0	 yes 	 in person 
+1022	6.0	77.0	52.0	 no 	Online
+1023	3.0	66.0	55.0	YES	 online 
+1024	14.0	94.0	62.0	No	 in person 
+1025	12.0	85.0	95.0	YES	 in person 
+1026	10.0	88.0	87.0	 yes 	In person
+1027	7.0	63.0	41.0	No	 online 
+1028	13.0	72.0	53.0	 no 	 online 
+1029	9.0	91.0	86.0	 yes 	In person
+1030	7.0	94.0	43.0	No	In person
+1031	7.0	77.0	87.0	 yes 	 online 
+1032	4.0	92.0	55.0	No	Online
+1033	2.0	94.0	91.0	No	Online
+1034	9.0	75.0	56.0	YES	 in person 
+1035	14.0	96.0	64.0	No	 online 
+1036	1.0	71.0	77.0	 yes 	 online 
+1037	13.0	69.0	47.0	Yes	 online 
+1038	13.0	87.0	71.0	Yes	 in person 
+1039	5.0	86.0	68.0	YES	Online
+1040	10.0	65.0	83.0	 no 	Online
+1041	3.0	94.0	95.0	Yes	 online 
+1042	12.0	68.0	77.0	YES	 online 
+1043	11.0	93.0	62.0	No	In person
+1044	6.0	60.0	62.0	 yes 	 online 
+1045	2.0	92.0	63.0	No	 online 
+1046	15.0	92.0	85.0	 yes 	 in person 
+1047	7.0	91.0	57.0	 no 	Online
+1048	14.0	87.0	49.0	YES	In person
+1049	11.0	79.0	58.0	YES	In person
+1050	12.0	88.0	41.0	Yes	 online 
+1051	12.0	71.0	45.0	YES	 in person 
+1052	3.0	92.0	45.0	 no 	 online 
+1053	6.0	82.0	83.0	Yes	 in person 
+1054	8.0	78.0	80.0	No	 online 
+1055	8.0	80.0	79.0	YES	In person
+1056	1.0	83.0	65.0	No	In person
+1057	9.0	61.0	80.0	No	 in person 
+1058	3.0	65.0	49.0	YES	 online 
+1059	12.0	70.0	90.0	 yes 	 online 
+1060	11.0	64.0	68.0	No	Online
+1002	12.0	90.0	77.0	Yes	In person
+1005	7.0	76.0	87.0	YES	In person
