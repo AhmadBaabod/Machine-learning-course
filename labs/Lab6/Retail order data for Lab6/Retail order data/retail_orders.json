@@ -1,0 +1,677 @@
+[
+  {
+    "order_id":2001,
+    "order_date":"2026-01-01",
+    "category":"Electronics",
+    "unit_price":132,
+    "quantity":3.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2002,
+    "order_date":"2026-01-02",
+    "category":"Home",
+    "unit_price":121,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2003,
+    "order_date":"invalid-date",
+    "category":"Books",
+    "unit_price":268,
+    "quantity":2.0,
+    "discount_percent":5.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2004,
+    "order_date":"2026-01-04",
+    "category":" home ",
+    "unit_price":42,
+    "quantity":5.0,
+    "discount_percent":10.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2005,
+    "order_date":"2026-01-05",
+    "category":" electronics ",
+    "unit_price":225,
+    "quantity":3.0,
+    "discount_percent":5.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2006,
+    "order_date":"2026-01-06",
+    "category":"Books",
+    "unit_price":"unknown",
+    "quantity":2.0,
+    "discount_percent":0.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2007,
+    "order_date":"2026-01-07",
+    "category":" books ",
+    "unit_price":123,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2008,
+    "order_date":"2026-01-08",
+    "category":" electronics ",
+    "unit_price":null,
+    "quantity":5.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2009,
+    "order_date":"2026-01-09",
+    "category":" books ",
+    "unit_price":16,
+    "quantity":3.0,
+    "discount_percent":5.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2010,
+    "order_date":"2026-01-10",
+    "category":"Books",
+    "unit_price":-20,
+    "quantity":1.0,
+    "discount_percent":5.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2011,
+    "order_date":"2026-01-11",
+    "category":" electronics ",
+    "unit_price":286,
+    "quantity":3.0,
+    "discount_percent":15.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2012,
+    "order_date":"2026-01-12",
+    "category":"Home",
+    "unit_price":83,
+    "quantity":null,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2013,
+    "order_date":"2026-01-13",
+    "category":"Books",
+    "unit_price":24,
+    "quantity":1.0,
+    "discount_percent":15.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2014,
+    "order_date":"2026-01-14",
+    "category":" books ",
+    "unit_price":50,
+    "quantity":4.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2015,
+    "order_date":"2026-01-15",
+    "category":" books ",
+    "unit_price":34,
+    "quantity":0.0,
+    "discount_percent":10.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2016,
+    "order_date":"2026-01-16",
+    "category":" electronics ",
+    "unit_price":252,
+    "quantity":1.0,
+    "discount_percent":0.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2017,
+    "order_date":"2026-01-17",
+    "category":"Home",
+    "unit_price":270,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2018,
+    "order_date":"2026-01-18",
+    "category":"Home",
+    "unit_price":58,
+    "quantity":1.0,
+    "discount_percent":5.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2019,
+    "order_date":"2026-01-19",
+    "category":" home ",
+    "unit_price":228,
+    "quantity":4.0,
+    "discount_percent":120.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2020,
+    "order_date":"2026-01-20",
+    "category":"Home",
+    "unit_price":66,
+    "quantity":3.0,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2021,
+    "order_date":"2026-01-21",
+    "category":" books ",
+    "unit_price":120,
+    "quantity":1.0,
+    "discount_percent":5.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2022,
+    "order_date":"2026-01-22",
+    "category":"Books",
+    "unit_price":186,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2023,
+    "order_date":"2026-01-23",
+    "category":" electronics ",
+    "unit_price":220,
+    "quantity":1.0,
+    "discount_percent":null,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2024,
+    "order_date":"2026-01-24",
+    "category":" home ",
+    "unit_price":265,
+    "quantity":3.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2025,
+    "order_date":"2026-01-25",
+    "category":" home ",
+    "unit_price":27,
+    "quantity":1.0,
+    "discount_percent":10.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2026,
+    "order_date":"2026-01-26",
+    "category":" books ",
+    "unit_price":71,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2027,
+    "order_date":"2026-01-27",
+    "category":" books ",
+    "unit_price":95,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":null
+  },
+  {
+    "order_id":2028,
+    "order_date":"2026-01-28",
+    "category":"Books",
+    "unit_price":103,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2029,
+    "order_date":"2026-01-29",
+    "category":"Books",
+    "unit_price":300,
+    "quantity":3.0,
+    "discount_percent":15.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2030,
+    "order_date":"2026-01-30",
+    "category":" electronics ",
+    "unit_price":237,
+    "quantity":3.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2031,
+    "order_date":"2026-01-31",
+    "category":" electronics ",
+    "unit_price":106,
+    "quantity":4.0,
+    "discount_percent":5.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2032,
+    "order_date":"2026-02-01",
+    "category":"Electronics",
+    "unit_price":292,
+    "quantity":4.0,
+    "discount_percent":10.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2033,
+    "order_date":"2026-02-02",
+    "category":" books ",
+    "unit_price":157,
+    "quantity":5.0,
+    "discount_percent":10.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2034,
+    "order_date":"2026-02-03",
+    "category":"Home",
+    "unit_price":158,
+    "quantity":1.0,
+    "discount_percent":10.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2035,
+    "order_date":"2026-02-04",
+    "category":"Electronics",
+    "unit_price":139,
+    "quantity":4.0,
+    "discount_percent":15.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2036,
+    "order_date":"2026-02-05",
+    "category":"Home",
+    "unit_price":56,
+    "quantity":1.0,
+    "discount_percent":5.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2037,
+    "order_date":"2026-02-06",
+    "category":" home ",
+    "unit_price":282,
+    "quantity":2.0,
+    "discount_percent":15.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2038,
+    "order_date":"2026-02-07",
+    "category":" books ",
+    "unit_price":18,
+    "quantity":5.0,
+    "discount_percent":5.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2039,
+    "order_date":"2026-02-08",
+    "category":" books ",
+    "unit_price":64,
+    "quantity":2.0,
+    "discount_percent":15.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2040,
+    "order_date":"2026-02-09",
+    "category":" home ",
+    "unit_price":80,
+    "quantity":4.0,
+    "discount_percent":10.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2041,
+    "order_date":"2026-02-10",
+    "category":" electronics ",
+    "unit_price":94,
+    "quantity":3.0,
+    "discount_percent":10.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2042,
+    "order_date":"2026-02-11",
+    "category":" books ",
+    "unit_price":52,
+    "quantity":2.0,
+    "discount_percent":15.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2043,
+    "order_date":"2026-02-12",
+    "category":" electronics ",
+    "unit_price":20,
+    "quantity":2.0,
+    "discount_percent":15.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2044,
+    "order_date":"2026-02-13",
+    "category":" electronics ",
+    "unit_price":208,
+    "quantity":3.0,
+    "discount_percent":15.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2045,
+    "order_date":"2026-02-14",
+    "category":" home ",
+    "unit_price":292,
+    "quantity":4.0,
+    "discount_percent":10.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2046,
+    "order_date":"2026-02-15",
+    "category":" books ",
+    "unit_price":49,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2047,
+    "order_date":"2026-02-16",
+    "category":" home ",
+    "unit_price":99,
+    "quantity":5.0,
+    "discount_percent":5.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2048,
+    "order_date":"2026-02-17",
+    "category":" home ",
+    "unit_price":159,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2049,
+    "order_date":"2026-02-18",
+    "category":" books ",
+    "unit_price":280,
+    "quantity":4.0,
+    "discount_percent":15.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2050,
+    "order_date":"2026-02-19",
+    "category":"Books",
+    "unit_price":213,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2051,
+    "order_date":"2026-02-20",
+    "category":" electronics ",
+    "unit_price":234,
+    "quantity":2.0,
+    "discount_percent":0.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2052,
+    "order_date":"2026-02-21",
+    "category":"Books",
+    "unit_price":181,
+    "quantity":3.0,
+    "discount_percent":0.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2053,
+    "order_date":"2026-02-22",
+    "category":" books ",
+    "unit_price":134,
+    "quantity":1.0,
+    "discount_percent":10.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2054,
+    "order_date":"2026-02-23",
+    "category":"Electronics",
+    "unit_price":72,
+    "quantity":2.0,
+    "discount_percent":10.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2055,
+    "order_date":"2026-02-24",
+    "category":" home ",
+    "unit_price":262,
+    "quantity":5.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2056,
+    "order_date":"2026-02-25",
+    "category":" home ",
+    "unit_price":244,
+    "quantity":3.0,
+    "discount_percent":5.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2057,
+    "order_date":"2026-02-26",
+    "category":"Books",
+    "unit_price":22,
+    "quantity":1.0,
+    "discount_percent":5.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2058,
+    "order_date":"2026-02-27",
+    "category":" home ",
+    "unit_price":219,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2059,
+    "order_date":"2026-02-28",
+    "category":"Books",
+    "unit_price":39,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2060,
+    "order_date":"2026-03-01",
+    "category":"Home",
+    "unit_price":226,
+    "quantity":5.0,
+    "discount_percent":5.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2061,
+    "order_date":"2026-03-02",
+    "category":" home ",
+    "unit_price":251,
+    "quantity":2.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2062,
+    "order_date":"2026-03-03",
+    "category":" home ",
+    "unit_price":52,
+    "quantity":3.0,
+    "discount_percent":10.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2063,
+    "order_date":"2026-03-04",
+    "category":" books ",
+    "unit_price":139,
+    "quantity":3.0,
+    "discount_percent":15.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2064,
+    "order_date":"2026-03-05",
+    "category":" home ",
+    "unit_price":50,
+    "quantity":2.0,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2065,
+    "order_date":"2026-03-06",
+    "category":"Books",
+    "unit_price":177,
+    "quantity":2.0,
+    "discount_percent":0.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2066,
+    "order_date":"2026-03-07",
+    "category":" electronics ",
+    "unit_price":280,
+    "quantity":2.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2067,
+    "order_date":"2026-03-08",
+    "category":"Electronics",
+    "unit_price":38,
+    "quantity":5.0,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2068,
+    "order_date":"2026-03-09",
+    "category":" books ",
+    "unit_price":128,
+    "quantity":4.0,
+    "discount_percent":0.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2069,
+    "order_date":"2026-03-10",
+    "category":"Books",
+    "unit_price":293,
+    "quantity":5.0,
+    "discount_percent":5.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2070,
+    "order_date":"2026-03-11",
+    "category":"Home",
+    "unit_price":101,
+    "quantity":5.0,
+    "discount_percent":15.0,
+    "city":"Riyadh"
+  },
+  {
+    "order_id":2071,
+    "order_date":"2026-03-12",
+    "category":"Electronics",
+    "unit_price":52,
+    "quantity":5.0,
+    "discount_percent":10.0,
+    "city":"Jeddah"
+  },
+  {
+    "order_id":2072,
+    "order_date":"2026-03-13",
+    "category":" electronics ",
+    "unit_price":154,
+    "quantity":1.0,
+    "discount_percent":0.0,
+    "city":" jeddah "
+  },
+  {
+    "order_id":2001,
+    "order_date":"2026-01-01",
+    "category":"Electronics",
+    "unit_price":132,
+    "quantity":3.0,
+    "discount_percent":15.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2004,
+    "order_date":"2026-01-04",
+    "category":" home ",
+    "unit_price":42,
+    "quantity":5.0,
+    "discount_percent":10.0,
+    "city":" riyadh "
+  },
+  {
+    "order_id":2009,
+    "order_date":"2026-01-09",
+    "category":" books ",
+    "unit_price":16,
+    "quantity":3.0,
+    "discount_percent":5.0,
+    "city":"Riyadh"
+  }
+]
